@@ -1,6 +1,6 @@
 # The Basics
 
-### The R Environment
+### The R Environment (Chapter 2)
 ```r
 search()
 ```
@@ -144,6 +144,7 @@ objects("package:mangoTraining")
 [11] "qtpk2"        "runData"      "tubeData"     "xpData" 
 ```
 
+### Chapter 3 - Single-Mode Data Structures
 ```r
 
 ```
